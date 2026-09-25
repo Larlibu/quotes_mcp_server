@@ -2,6 +2,8 @@
 
 MCP-Server fuer persoenliche Zitate-Verwaltung mit Spring Boot.
 
+[Javadoc oeffnen](https://larlibu.github.io/quotes_mcp_server/)
+
 ## Features
 
 - Zitate hinzufuegen (einzeln oder Batch)
