@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "quotes": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "text": "Be yourself; everyone else is already taken.",
+      "autor_tag": "Oscar Wilde",
+      "themen_tag": "Authentizitaet",
+      "sprachen_tag": "englisch",
+      "erstellungsdatum": "2026-05-01T18:00:00Z"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "text": "Der Weg ist das Ziel.",
+      "autor_tag": "Konfuzius",
+      "themen_tag": "Lebensweisheit",
+      "sprachen_tag": "deutsch",
+      "erstellungsdatum": "2026-05-01T18:00:00Z"
+    }
+  ]
+}

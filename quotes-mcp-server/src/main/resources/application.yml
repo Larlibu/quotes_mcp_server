@@ -1,0 +1,24 @@
+spring:
+  main:
+    banner-mode: off
+  application:
+    name: quotes-mcp-server
+  ai:
+    mcp:
+      server:
+        stdio: true
+        transport: stdio
+        name: "Zitate-MCP-Server"
+        version: "1.0.0"
+        description: "MCP-Server fuer persoenliche Zitate-Verwaltung"
+
+
+quotes:
+  file:
+    path: ${user.home}/.quotes-mcp/quotes.json
+
+logging:
+  file:
+    name: ${user.home}/.quotes-mcp/logs/quotes-mcp-server.log
+  level:
+    root: INFO
