@@ -1,4 +1,4 @@
-# Codex/IntelliJ AI Prompt: Zitate-MCP-Server Implementierung
+# Claude/IntelliJ AI Prompt: Zitate-MCP-Server Implementierung
 
 ## Projektübersicht
 
