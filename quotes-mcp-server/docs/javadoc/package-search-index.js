@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Alle Packages","u":"allpackages-index.html","k":"18"},{"l":"de.larlibu.quotes"},{"l":"de.larlibu.quotes.config"},{"l":"de.larlibu.quotes.model"},{"l":"de.larlibu.quotes.repository"},{"l":"de.larlibu.quotes.service"},{"l":"de.larlibu.quotes.tools"}];updateSearchResults();
