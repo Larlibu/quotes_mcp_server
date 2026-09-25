@@ -108,7 +108,7 @@ Erstelle eine Java-Klasse `Quote` im Package `de.larlibu.quotes.model`:
 
 **Anforderungen:**
 - Alle Felder als private Attribute
-- Verwende Lombok `@Data`, `@NoArgsConstructor`, `@AllArgsConstructor` (oder manuelle Getter/Setter)
+- Verwende Lombok `@Data`, `@NoArgsConstructor`, `@AllArgsConstructor`
 - Jackson-Annotations für JSON-Serialisierung
 
 **Felder:**
