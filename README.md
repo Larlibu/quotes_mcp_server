@@ -5,6 +5,7 @@ MCP-Server fuer persoenliche Zitate-Verwaltung mit Spring Boot.
 - [Javadoc oeffnen](https://larlibu.github.io/quotes_mcp_server/javadoc/)
 - [Arc42-Dokumentation](docs/arc42_zitate_mcp_server.md)
 - [Eingabe-Prompt](docs/eingabe_prompt_quotes_mcp_server.md)
+- [MCP Project (Aufgabenstellung)](docs/MCP%20Project.md)
 
 ## Features
 
